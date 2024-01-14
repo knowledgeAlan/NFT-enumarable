@@ -72,3 +72,5 @@ _allTokensIndex: Find tokenId index by tokenId.
       return previousOwner;
   }
 If previousOwner equals zero , It add token . It will remove token if previousOwner not equal to . It remove if to equal zero . It add token if previousOwner not equal to.
+
+[Tiktok](https://www.tiktok.com/@zcdalan/video/7323887100514831617?is_from_webapp=1&sender_device=pc&web_id=7323587886779008513)
